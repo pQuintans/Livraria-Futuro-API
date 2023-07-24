@@ -1,0 +1,12 @@
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\bin\Debug\net6.0\LivrariaFuturo.Infrastructure.deps.json
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\bin\Debug\net6.0\LivrariaFuturo.Infrastructure.dll
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\bin\Debug\net6.0\LivrariaFuturo.Infrastructure.pdb
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\LivrariaFuturo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\LivrariaFuturo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\LivrariaFuturo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\LivrariaFuturo.Infrastructure.AssemblyInfo.cs
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\LivrariaFuturo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\LivrariaFuturo.Infrastructure.dll
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\refint\LivrariaFuturo.Infrastructure.dll
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\LivrariaFuturo.Infrastructure.pdb
+C:\Users\pquin\projetos\LivrariaFuturo\Infrastructure\obj\Debug\net6.0\ref\LivrariaFuturo.Infrastructure.dll
